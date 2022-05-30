@@ -7,7 +7,7 @@
   </em>
 </p>
 
-[![Twitter: jsantv](https://img.shields.io/twitter/follow/jsantv?style=social)](https://twitter.com/jsantv)
+[![Twitter: jsantv](https://img.shields.io/twitter/follow/jsantv?style=social)](https://twitter.com/jssancs)
 [![Linkedin: jsancs](https://img.shields.io/badge/-jsancs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsancs/)](https://www.linkedin.com/in/jsancs/)
 [![GitHub ahsanwtc](https://img.shields.io/github/followers/ahsanwtc?label=follow&style=social)](https://github.com/ahsanwtc)
 [![](https://img.shields.io/badge/web-https%3A%2F%2Fiamahsan.dev-yellowgreen)](https://iamahsan.dev)
