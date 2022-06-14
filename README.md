@@ -1,4 +1,4 @@
-### Hi, I'm Ahsan J. Butt! (jsan)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi, I'm Ahsan J. Butt! (jsan)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"></h2>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 <p>
   <em>
