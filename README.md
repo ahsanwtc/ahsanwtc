@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 <p>
   <em>
-    Senior Software Enginner at <a href="https://www.mailcom-firmenadressen.de/">Mailcom GmbH</a></br>
+    Senior Software Enginner at <a href="https://www.mailcom-firmenadressen.de/" target="_blank">Mailcom GmbH</a></br>
     Software Contractor at TwoPillars<br/>
-    Co-Founder <a href="https://www.bestellbox.eu/">BestellBox</a>
+    Co-Founder <a href="https://www.bestellbox.eu/" target="_blank">BestellBox</a>
   </em>
 </p>
 
