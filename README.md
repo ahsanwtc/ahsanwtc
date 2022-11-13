@@ -4,7 +4,7 @@
   <em>
     Senior Software Enginner at <a href="https://www.mailcom-firmenadressen.de/" target="_blank">Mailcom GmbH</a></br>
     Software Contractor at TwoPillars<br/>
-    Co-Founder <a href="https://www.bestellbox.eu/" target="_blank">BestellBox</a>
+    Co-Founder <a href="https://bestellbox.eu/" target="_blank">BestellBox</a>
   </em>
 </p>
 
