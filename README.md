@@ -1,5 +1,5 @@
 ### Hi, I'm Ahsan J. Butt! (jsan)
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">-->
 <p>
   <em>
     Senior Software Enginner at <a href="https://www.mailcom-firmenadressen.de/" target="_blank">Mailcom GmbH</a></br>
